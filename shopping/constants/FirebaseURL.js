@@ -1,1 +1,0 @@
-export default "https://rn-shop-app-db71b-default-rtdb.asia-southeast1.firebasedatabase.app/"
